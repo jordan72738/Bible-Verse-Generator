@@ -23,4 +23,4 @@ This project is a simple front-end application built with React and Vite that fe
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/jordan72738/Bible-Verse-Generator/blob/main/README.md?plain=1
+   git clone https://github.com/jordan72738/Bible-Verse-Generator
