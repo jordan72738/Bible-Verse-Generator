@@ -23,5 +23,5 @@ This project is a simple front-end application built with React and Vite that fe
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/bible-app.git
+   git clone https://github.com/jordan72738/bible-app.git
    cd bible-app
